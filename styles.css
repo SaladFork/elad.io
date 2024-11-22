@@ -15,7 +15,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  padding: 2em;
+  padding: 1em;
 
   background-color: #212121;
   color: rgba(255, 255, 255, 0.95);
@@ -36,10 +36,3 @@ h1 {
   font-size: 2.5rem;
   font-weight: normal;
 }
-
-h2 {
-  font-size: 1.5rem;
-  font-weight: normal;
-}
-
-/* Add any additional dark-themed styles here */
